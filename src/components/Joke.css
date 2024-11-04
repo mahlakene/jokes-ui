@@ -1,0 +1,29 @@
+.setup {
+  font-size: 40px;
+  background-color: gray;
+  border-radius: 15px;
+  color: aquamarine;
+}
+
+.delivery {
+  font-size: 40px;
+  background-color: gray;
+  border-radius: 15px;
+  color: white;
+}
+
+.joke button {
+  color: black;
+  background-color: yellow;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li.joke {
+  border: 3px;
+  border-color: yellow;
+  border-style: groove;
+  border-radius: 15px;
+}
